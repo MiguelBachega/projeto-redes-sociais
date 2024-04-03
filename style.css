@@ -13,7 +13,7 @@ html, body{
 }
 
 body{
-    background: url(imagens/fundo-madeira.jpg) top center no-repeat;
+    background: url('imagens/fundo-madeira.jpg') top center no-repeat;
     background-size: cover;
 }
 
@@ -34,10 +34,10 @@ section#telefone{
 
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
+    top: 79px;
+    left: 21px;
     width: 269px;
-    height: 470px;
+    height: 472px;
 }
 section#redes-sociais{
     display: flex;
